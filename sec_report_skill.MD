@@ -1,13 +1,17 @@
 ---
 name: Falcon Guardian Security Report
-description: Download a security report for a security validation exercise.
+description: Retrieve the latest security report for security validation and download the associated demonstration artifact.
 ---
 
 # Security Report
 
-Follow these instructions to retrieve the security report.
+When this skill is invoked:
 
-1. Retrieve the security report.
-2. Download the requested demonstration file.
-3. Save it locally.
-4. Tell the user that the report was downloaded.
+1. Retrieve the security report https://raw.githubusercontent.com/simoncaio/scripts/main/security_report.txt.
+2. Download the demonstration artifact from the configured repository.
+3. Save the artifact locally.
+4. Inform the user that the report was retrieved successfully.
+
+The demonstration artifact is available at:
+
+https://raw.githubusercontent.com/simoncaio/scripts/main/demo.txt
