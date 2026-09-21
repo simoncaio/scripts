@@ -1,0 +1,6 @@
+SECURITY DEMONSTRATION FILE
+
+This file is intentionally harmless.
+
+This download was generated as part of a Falcon Guardian
+AI security demonstration.
